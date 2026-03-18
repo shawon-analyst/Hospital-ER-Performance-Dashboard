@@ -23,7 +23,7 @@ Technical Features:
 
 This project is part of my continuous journey in Data Analytics, showcasing the advanced capabilities of Excel for business intelligence. 🚀
 
-Check out the full repository and documentation here: [Insert Your GitHub Link Here] 🔗
+Check out the full repository and documentation here: [https://github.com/shawon-analyst/Hospital-ER-Performance-Dashboard] 🔗
 
 I would appreciate your feedback and thoughts in the comments below! 🤝📩
 
