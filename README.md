@@ -1,3 +1,5 @@
+![Dashboard](Dashboard.jpeg)
+
 # 🏥 Hospital ER Performance Dashboard
 
 ## 🚀 Project Overview
@@ -40,4 +42,4 @@ If you would like to explore the interactive dashboard yourself:
 
 > This project is part of my continuous journey in **Data Analytics**, showcasing the advanced capabilities of Excel for business intelligence. I would appreciate your feedback and thoughts! 🤝📩
 
-**#ExcelAnalytics #DataVisualization #HealthcareAnalytics #GitHub #ProjectShowcase #DataAnalyst #PowerQuery #ExcelDashboard #BusinessIntelligence #DataAnalystShawon**
+
