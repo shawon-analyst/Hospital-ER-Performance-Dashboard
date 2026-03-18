@@ -24,7 +24,7 @@ Technical Features:
 - User-Centric Design: Focused on clarity and quick decision-making. 🎨
 
 📥 How to Explore the Project:
-If you would like to explore the interactive dashboard yourself, please download the "Dashboard/raw/main/project.xlsx" file from this repository and open it in Excel. 📂💻
+If you would like to explore the interactive dashboard yourself, please download the Dashboard/raw/main/project.xlsx file from this repository and open it in Excel. 📂💻
 
 This project is part of my continuous journey in Data Analytics, showcasing the advanced capabilities of Excel for business intelligence. 🚀
 
