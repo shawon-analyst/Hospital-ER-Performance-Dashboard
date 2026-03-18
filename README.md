@@ -1,5 +1,6 @@
 ![Dashboard](Dashboard.jpeg)
 # Hospital-ER-Performance-Dashboard
+# Hospital-ER-Performance-Dashboard
 
 🚀 Project Showcase: Hospital Emergency Room Analysis (Excel Dynamic Dashboard) 🏥📊
 
@@ -22,10 +23,13 @@ Technical Features:
 - Data Modeling: Implemented DAX to calculate complex KPIs and metrics. 📊
 - User-Centric Design: Focused on clarity and quick decision-making. 🎨
 
+📥 How to Explore the Project:
+If you would like to explore the interactive dashboard yourself, please download the "Dashboard/raw/main/project.xlsx" file from this repository and open it in Excel. 📂💻
+
 This project is part of my continuous journey in Data Analytics, showcasing the advanced capabilities of Excel for business intelligence. 🚀
 
-Check out the full repository and documentation here: [https://github.com/shawon-analyst/Hospital-ER-Performance-Dashboard] 🔗
+Check out the full repository and documentation here: https://github.com/shawon-analyst/Hospital-ER-Performance-Dashboard 🔗
 
 I would appreciate your feedback and thoughts in the comments below! 🤝📩
 
-
+#ExcelAnalytics #DataVisualization #HealthcareAnalytics #GitHub #ProjectShowcase #DataAnalyst #PowerQuery #ExcelDashboard #BusinessIntelligence #DataAnalystShawon
