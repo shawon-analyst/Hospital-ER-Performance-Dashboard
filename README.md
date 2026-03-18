@@ -1,3 +1,4 @@
+![Dashboard](Dashboard.jpeg)
 # Hospital-ER-Performance-Dashboard
 
 🚀 Project Showcase: Hospital Emergency Room Analysis (Excel Dynamic Dashboard) 🏥📊
