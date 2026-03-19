@@ -1,4 +1,4 @@
-![Dashboard](Dashboard.jpeg)
+![Dashboard](img/Dashboard.jpeg)
 
 # 🏥 Hospital ER Performance Dashboard
 
