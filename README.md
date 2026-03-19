@@ -32,7 +32,7 @@ To build this robust tool, I utilized advanced Excel functionalities:
 
 ## 📥 How to Explore the Project
 If you would like to explore the interactive dashboard yourself:
-1.  Download the `project.xlsx` file from this repository. 📂
+1.  Download the `Hospital Emergency Room Data.csv` file from this repository. 📂
 2.  Open it in **Microsoft Excel**. 💻
 3.  Use the slicers to filter data and see the visuals update in real-time! 🖱️
 
